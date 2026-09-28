@@ -1,0 +1,55 @@
+1.Home page
+TC_001	Open DemoBlaze website	
+TC_002	Verify website title	
+TC_003	Verify navigation menu	
+TC_004	Click Home	
+TC_005	Verify 
+
+2.Product Categories
+TC_006	Click Phones	
+TC_007	Click Laptops
+TC_008	Click Monitors	
+TC_009	Click each category multiple times	
+
+
+3. Product Details
+TC_010	Click a product	
+TC_011	Verify product name	
+TC_012	Verify product price	
+TC_013	Verify product image	
+TC_014	Verify product description	
+TC_015	Click Add to cart	
+
+4. Sign Up
+TC_016	Click Sign up	
+TC_017	Enter valid username and password	
+TC_018	Enter an existing username	
+TC_019	Leave username empty	
+TC_020	Leave password empty	
+
+5. Login
+TC_021	Login with valid username and password	
+TC_022	Login with invalid username	
+TC_023	Login with invalid password	
+TC_024	Leave username empty	
+TC_025	Leave password empty	
+TC_026	Logout after login	
+
+
+6. Cart
+TC_027	Add one product to cart	
+TC_028	Add multiple products	
+TC_029	Verify product price in cart	
+TC_030	Verify total price	
+TC_031	Remove a product	
+TC_032	Open empty cart	
+TC_033	Navigate from cart to home	
+
+
+7. Place Order
+TC_034	Click Place Order	
+TC_035	Enter valid customer details
+TC_036	Leave required fields empty	
+TC_037	Enter valid credit card details	
+TC_038	Click Purchase with valid details	
+TC_039	Verify order
