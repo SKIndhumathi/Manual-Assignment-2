@@ -1,0 +1,41 @@
+Test Case 1 – Credit Card Payment
+
+Test Case ID: TC_payment_001
+
+Test Description: Verify that the user can make a product payment using a Credit Card.
+
+Test Steps:
+Open Flipkart
+Select a product
+Add the product to the cart
+Proceed to checkout
+Select Credit Card as the payment method
+Enter valid card details
+Click Pay/Place Order.
+
+Test Data:
+Valid Credit Card number, expiry date, and cardholder name.
+
+Expected Result:
+Payment should be processed successfully and the order should be placed successfully.
+
+Test Case 2 – UPI Payment
+
+Test Case ID: TC_payment_002
+
+Test Description: Verify that the user can make a product payment using UPI.
+
+Test Steps:
+Open Flipkart
+Select a product
+Add the product to the cart
+Proceed to checkout
+Select UPI as the payment method
+Enter a valid UPI ID
+Complete the UPI payment
+
+Test Data:
+Valid UPI ID.
+
+Expected Result:
+UPI payment should be processed successfully and the order should be placed successfully.
